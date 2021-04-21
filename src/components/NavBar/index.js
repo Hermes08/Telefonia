@@ -33,7 +33,7 @@ const  Navbar = ({toggle}) => {
 
             <NavbarContainer>
                 <NavLogo to='/'>
-                    dolla
+                    leads
                 </NavLogo>
                 <MobileIcon onClick={toggle}>
                     <FaBars />

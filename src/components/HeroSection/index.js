@@ -22,8 +22,7 @@ const [hover, setHover]= useState(false);
             </HeroBg>
             <HeroContent>
                 <HeroH1>Lead Generation Made Easy</HeroH1>
-                <HeroP>Sign up for a new account today and receive $200 in credit towards
-                    your next payment </HeroP>
+                <HeroP>Sign up for a new account today and receive your reports in realtime </HeroP>
                    <HeroBtnWrapper>
                        <Button to="signup" onMouseEnter={onHover} onMouseLeave={onHover}>
                         Get started {hover ? <ArrowForward/> :<ArrowRight/>}

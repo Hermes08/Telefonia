@@ -1,5 +1,3 @@
-import { FaTruckMonster } from 'react-icons/fa'
-
 
 export const homeObjone = {
 

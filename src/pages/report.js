@@ -1,15 +1,39 @@
 import React from 'react'
+import Baloon from '../images2/svg-1.svg'
 
+const backgroundimage = {
+    width: "700x",
+    height: "400px",
+    backgroundImage: `url(${Baloon})`
+  };
 
 export const ReportPage = () => {
+
+   
     return (
-        <div>
-           <h1> Welcome team</h1>
-           <div>
-               <h2>Latest reports by date</h2>
-               <a href={'https://www.notion.so/Real-Estate-Investor-Exported-Results-1-995ece9bbc034b9181d20872d33ddf7a'}>Latest Report</a>
-           </div>
-       </div>
+<body >
+<div
+
+style={{
+        backgroundimage,
+        backgroundColor: '#01BF71',
+        width: 'viewport.innerwidth',
+        height: '800px',
+        
+      }}
+    >
+      
+      
+ <h3 style={{color: "white" }, { paddingTop : 80  , paddingLeft : 80} }> Welcome Team please view your in the link below</h3> 
+
+       
+       
+
+<div style={{ paddingLeft : 80 , paddingTop : 30  } } >
+ <a href={'https://www.notion.so/Real-Estate-Investor-Exported-Results-1-995ece9bbc034b9181d20872d33ddf7a'}>Latest Report</a>
+        </div>
+            </div>
+</body>
     )
 }
 

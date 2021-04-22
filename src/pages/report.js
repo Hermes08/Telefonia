@@ -24,7 +24,7 @@ style={{
     >
       
       
- <h3 style={{color: "white" }, { paddingTop : 80  , paddingLeft : 80} }> Welcome Team please view your in the link below</h3> 
+ <h3 style={{color: "white" , paddingTop : 80  , paddingLeft : 80} }> Welcome Team please view your report in the link below</h3> 
 
        
        

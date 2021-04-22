@@ -1,11 +1,7 @@
 import React from 'react'
 import Baloon from '../images2/svg-1.svg'
 
-const backgroundimage = {
-    width: "700x",
-    height: "400px",
-    backgroundImage: `url(${Baloon})`
-  };
+
 
 export const ReportPage = () => {
 
@@ -15,7 +11,7 @@ export const ReportPage = () => {
 <div
 
 style={{
-        backgroundimage,
+      
         backgroundColor: '#01BF71',
         width: 'viewport.innerwidth',
         height: '800px',

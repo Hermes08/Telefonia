@@ -14,7 +14,7 @@ style={{
       
         backgroundColor: '#01BF71',
         width: 'viewport.innerwidth',
-        height: 'viewport.innerheight',
+        height: '1500px ',
         
       }}
     >

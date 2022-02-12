@@ -30,7 +30,7 @@ export const NavbarContainer = styled.div`
 `;
 
 export const NavLogo= styled(LinkR)`
-color: #fff;
+color: #B16DE2;
 justify-self: flex-start;
 cursor:pointer;
 font-size: 1.5rem;
@@ -101,7 +101,7 @@ align-items: center;
 
 export const NavBtnLink= styled(LinkR)`
 border-radius: 50px;
-background: #01bf71;
+background: #B16DE2;
 white-space: nowrap;
 padding: 10px 22px;
 color: #010606;

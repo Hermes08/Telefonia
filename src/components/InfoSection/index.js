@@ -1,6 +1,6 @@
 import React from 'react'
 
-import {Button} from '../ButtonElements'
+// import {Button} from '../ButtonElements'
 
 import {
     InfoContainer, 
@@ -12,7 +12,7 @@ import {
     TopLine,
     Heading,
     Subtitle,
-    BtnWrap,
+
     ImgWrap,
     Img
 } from './InfoElements'
